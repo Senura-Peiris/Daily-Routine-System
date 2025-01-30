@@ -3,3 +3,8 @@ I created this daily routine system to manage daily tasks properly. Users can se
 
 Daily Routine System Home Page
 ![image alt](https://github.com/Senura-Peiris/Daily-Routine-System/blob/main/daily%20routine%20home.png?raw=true)
+
+I used Formspree to get messages to my gmail account : Form Spree link = https://formspree.io/
+
+My contact section:
+![image alt]()
